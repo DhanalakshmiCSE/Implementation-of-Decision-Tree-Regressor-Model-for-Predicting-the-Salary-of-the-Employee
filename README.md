@@ -1,7 +1,8 @@
 # Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee
 
 ## AIM:
-To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
+To write a program to implement the Decision Tree Regressor Model for Predicting the Salary 
+of the Employee.
 
 ## Equipments Required:
 1. Hardware – PCs
@@ -19,7 +20,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 ## Program:
 ```
 /*
-Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
+Program to implement the Decision Tree Regressor Model for Predicting the
+Salary of the Employee.
 Developed by: DHANALAKSHMI S
 RegisterNumber: 212222040033 
 */
@@ -60,10 +62,13 @@ dt.predict([[5,6]])
 ## data.head() for position:
 ![281411503-d3b0c104-0972-4aa0-9009-c105ada35191](https://github.com/DhanalakshmiCSE/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119477832/d8b56ff7-cd42-4439-b118-16fe3f1f41cd)
 ## MSE Value:
+
 ![281411569-ceba29ae-6167-4a27-b5d5-23c61394aa99](https://github.com/DhanalakshmiCSE/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119477832/a5746fa4-8933-45eb-9daf-be1bdf2a5492)
 ## R2 Value:
+
 ![281411555-381730e3-479f-4cdc-a851-4b5ef1d35f33](https://github.com/DhanalakshmiCSE/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119477832/f2d17e0f-1454-4210-bca6-218483d390ea)
 ## Prediction value:
+
 ![281411804-0bcf0630-2dee-4481-b9b7-85694169f9ab](https://github.com/DhanalakshmiCSE/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119477832/13e80480-d547-470c-b9c0-0ba50d8c8a70)
 
 ## Result:
